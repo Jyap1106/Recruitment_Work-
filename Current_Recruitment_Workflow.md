@@ -1,5 +1,23 @@
 # Recruitment Operating System (Current Workflow)
 
+# Recruitment Technology Stack
+
+| System | Purpose |
+|---------|---------|
+| Moka | Applicant Tracking System (ATS) |
+| LinkedIn Recruiter | Candidate sourcing and outreach |
+| JobStreet | Job posting and applications |
+| Company Career Page | Direct applications |
+| Internal Referral Portal | Employee referrals |
+| WhatsApp | Primary communication channel (Malaysia & Singapore) |
+| WhatsApp Call | Initial recruiter screening call / interview scheduling |
+| Lark | Online interviews for overseas candidates |
+| Calendar | Interview scheduling |
+| Email | Candidate confirmation and formal communication |
+| Recruitment Masterfile | Recruitment tracking |
+| Personal Position Tracker | Recruiter workload tracking |
+| Candidate Onboarding Tracker | New hire onboarding tracking |
+
 ## Overview
 
 This document outlines the current end-to-end recruitment workflow as performed manually. It serves as the baseline process before introducing AI assistance and workflow automation.
@@ -31,20 +49,40 @@ Approved Job Requisition received through Moka.
 # Module 2 – Candidate Attraction & Initial Screening
 
 ## Input
+
 Applications received from:
-- LinkedIn
+- LinkedIn Recruiter
+- LinkedIn Job Posting
 - JobStreet
 - Company Career Page
-- Employee Referrals
+- Internal Referral Portal
 
 ### Process
 
-1. Review candidate applications.
-2. Assess profile suitability.
+1. Review candidate profile.
+2. Assess suitability.
 3. Shortlist suitable candidates.
-4. Send outreach message.
-5. Schedule Recruiter Interview.
-6. Reserve interview slot on calendar (30 minutes).
+
+### Candidate Outreach
+
+Primary communication channel:
+
+Malaysia / Singapore
+- WhatsApp message
+- Follow-up WhatsApp call if required
+
+International candidates
+- LinkedIn message (if applicable)
+- Lark interview invitation
+
+### Interview Scheduling
+
+1. Agree on interview timing.
+2. Schedule Recruiter Interview.
+3. Block 30-minute calendar slot.
+4. Send:
+   - WhatsApp confirmation
+   - Lark interview link (international candidates only)
 
 ---
 
@@ -75,12 +113,21 @@ Applications received from:
 ### Process
 
 1. Candidate enters Hiring Manager shortlist.
-2. Coordinate interview timing.
-3. Send interview invitation.
-4. Moka generates online interview link.
-5. Hiring Manager conducts interview.
+2. Contact candidate to arrange interview timing.
+
+Communication Channel
+
+Malaysia / Singapore
+- WhatsApp
+
+International
+- Lark
+
+3. Schedule interview in Moka.
+4. Moka generates interview link.
+5. Candidate attends interview.
 6. Hiring Manager submits:
-   - Feedback
+   - Interview feedback
    - Interview score
 7. Decide:
    - Reject

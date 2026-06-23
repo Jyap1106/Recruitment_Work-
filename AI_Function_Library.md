@@ -33,58 +33,58 @@ Name:
 Candidate Outreach Generator
 
 Input:
-Candidate Profile
+Candidate profile
 
 Output:
-Personalized Outreach Message
+Personalized WhatsApp message
 
 ---
 
 ## Function 4
 Name:
-Interview Notes Formatter
+LinkedIn Outreach Generator
 
 Input:
-Recruiter Shorthand Notes
+Candidate profile
 
 Output:
-Structured Interview Notes
+LinkedIn Recruiter InMail
 
 ---
 
 ## Function 5
 Name:
-Candidate Summary Generator
+Interview Scheduling Message
 
 Input:
-Interview Notes
+Interview details
 
 Output:
-Full Candidate Summary
+WhatsApp scheduling message
 
 ---
 
 ## Function 6
 Name:
-Condensed Summary Generator
+Lark Interview Invitation
 
 Input:
-Full Candidate Summary
+Interview details
 
 Output:
-Hiring Manager Snapshot
+Lark interview invitation message
 
 ---
 
 ## Function 7
 Name:
-Interview Invitation Generator
+Interview Notes Formatter
 
 Input:
-Interview Schedule
+Recruiter shorthand notes
 
 Output:
-Candidate Invitation Message
+Structured interview notes
 
 ---
 
